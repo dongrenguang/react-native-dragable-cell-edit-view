@@ -19,7 +19,8 @@
     "cell",
     "edit",
     "sort",
-    "sortable"
+    "sortable",
+    "animation"
   ],
   "author": "Dong, Renguang <dongrenguang@gmail.com>",
   "license": "MIT",
