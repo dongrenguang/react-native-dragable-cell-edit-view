@@ -1,0 +1,30 @@
+{
+  "name": "react-native-dragable-cell-edit-view",
+  "version": "1.0.0",
+  "description": "Dragable and dropable cell edit view. Accomplish with React Native and ES6.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongrenguang/react-native-dragable-cell-edit-view.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "ReactNative",
+    "dragable",
+    "dropable",
+    "cell",
+    "edit",
+    "sort",
+    "sortable"
+  ],
+  "author": "Dong, Renguang <dongrenguang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dongrenguang/react-native-dragable-cell-edit-view/issues"
+  },
+  "homepage": "https://github.com/dongrenguang/react-native-dragable-cell-edit-view#readme"
+}
