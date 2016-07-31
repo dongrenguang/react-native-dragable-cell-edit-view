@@ -3,7 +3,7 @@ Dragable and dropable cell edit view. Accomplish with React Native and ES6.
 
 ## Demo
 <div align="center">
-    <img src="./art/demo.gif"  width="500px" align="center" />
+    <img src="./art/demo.gif"  width="300px" align="center" />
 </div>
 
 ## PS
